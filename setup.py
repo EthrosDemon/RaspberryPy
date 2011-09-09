@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 from distutils.core import setup
-from rpy.version import version
+from rpy.version import get_version
 
 setup(
     name='RaspberryPy',
-    version=version,
+    version=get_version(),
     description='A Pythonic environment for learning Python on the RaspberryPi'\
         ' device.',
     long_description=open('README').read(),
