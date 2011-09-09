@@ -1,0 +1,10 @@
+RaspberryPy
+===========
+
+A Pythonic environment for learning Python on the RaspberryPi device.
+
+See http://www.raspberrypi.org/ for details of the device.
+
+NB: This software is in no way official or affiliated with the RaspberryPi
+project. It's just a quick hack to see how much can be done in as little time
+as possible at PyconUK 2011.
