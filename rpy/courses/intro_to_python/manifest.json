@@ -1,0 +1,14 @@
+{
+  "name": "An Introduction to Programming with Python",
+  "description": "A simple introduction to the basics of programming using the Python programming language.",
+  "audience": "Anyone interested in learning programming from age 10-110.",
+  "requires": [],
+  "tags": ["introduction", "programming", "python"],
+  "difficulty": "beginner",
+  "lessons": ["lesson1", "lesson2", "lesson3"],
+  "version": "0.1",
+  "authors": [
+    {"name": "Nicholas H.Tollervey",
+     "contact": "http://ntoll.org/contact"}
+  ]
+}
